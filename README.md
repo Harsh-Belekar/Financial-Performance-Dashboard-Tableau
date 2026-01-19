@@ -110,3 +110,13 @@ These KPIs provide a quick executive-level overview of business performance.
 2. Open the `.twb` file in **Tableau Desktop**
 3. Explore interactive filters (Segment, Country, Year, Month, Discount Band)
 4. Analyze financial performance and derive insights
+
+---
+
+## 🧑‍💻 Author
+
+**👤 Harsh Belekar**  
+📍 Data Analyst | Python Developer | SQL | Power BI | Excel | Data Visualization  
+📬 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | 🔗[GitHub](https://github.com/Harsh-Belekar)
+
+📧 [harshbelekar74@gmail.com](mailto:harshbelekar74@gmail.com)
