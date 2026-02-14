@@ -29,6 +29,7 @@ The objective of this project is to:
 ```
 ├── Financial Performance Dashboard.png     # Dashboard preview
 ├── Financial Performance Dashboard.twb     # Tableau workbook
+├── Financial Performance Analysis Project Report.pdf    # Project Report
 ├── README.md                               # Project documentation
 │
 ├── notebook/
